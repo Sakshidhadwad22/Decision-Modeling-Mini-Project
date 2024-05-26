@@ -1,0 +1,2 @@
+### # Technology Stack :
+The entire code has been written in Python3 . I have used the 👉🏻👉🏻pygame module👈🏻👈🏻 for the entire project(GAME) . All the background music and images are added using the pygame module only .
